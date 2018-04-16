@@ -1,5 +1,5 @@
 def my_collect(collection)
-  -=0
+  i = 0
 end
 
 end
